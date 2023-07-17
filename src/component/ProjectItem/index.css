@@ -1,0 +1,14 @@
+.project-item {
+  list-style: none;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+.img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.name {
+  padding-left: 20px;
+}
